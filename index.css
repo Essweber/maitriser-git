@@ -5,6 +5,8 @@ div{
     width: 70%;
     margin: auto;
     border: 1px solid green;
+    text-align: center;
+    
 }
 h1{
     color: blueviolet;
